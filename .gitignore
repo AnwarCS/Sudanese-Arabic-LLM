@@ -1,0 +1,21 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore model checkpoints
+*.ckpt
+*.pth
+*.pt
+
+# Ignore large raw datasets
+data/raw/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
