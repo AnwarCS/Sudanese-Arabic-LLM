@@ -1,4 +1,4 @@
-# Sudanese Arabic LLM Project 🇸🇩
+# Sudanese Arabic LLM Project
 
 **Towards Representation of Sudanese Arabic Dialect in Large Language Models**  
 A collaborative initiative to build a high-quality dataset and fine-tune language models that understand and generate Sudanese Arabic.
