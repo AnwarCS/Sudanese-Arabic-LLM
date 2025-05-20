@@ -1,0 +1,5 @@
+!pip install pdf2image arabic_reshaper python-bidi ipywidgets google-colab --quiet
+!pip install --quiet pdf2image pytesseract arabic_reshaper python-bidi ipywidgets google-colab
+!apt-get install -y poppler-utils tesseract-ocr tesseract-ocr-ara
+
+!apt-get update
