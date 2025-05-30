@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-A robust Python script to extract transcriptions from YouTube videos, including auto-generated captions, with comprehensive error handling and multiple output formats.
+(Version 2.0) of this script extracts transcriptions from YouTube videos (without using the YouTube API), including auto-generated captions and failed video attempts. It features enhanced error handling and supports multiple output formats."
 
 ## Features
 
