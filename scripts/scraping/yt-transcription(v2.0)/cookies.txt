@@ -1,0 +1,1 @@
+cookies file must be in HTTP format
