@@ -1,4 +1,0 @@
-# Requirements for YouTube Transcription Extractor
-beautifulsoup4
-requests
-yt-dlp
