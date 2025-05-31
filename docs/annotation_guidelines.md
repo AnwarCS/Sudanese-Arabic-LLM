@@ -15,6 +15,23 @@ To ensure consistent, high-quality annotation of Sudanese Arabic text.
 - Folk stories / proverbs
 - Songs / poetry
 
+## 4. Annotation Format and Label Schema
+
+- Use JSONL or CSV format for annotated entries.
+- Each annotated sample should include the following fields:
+  - `text`: the raw Sudanese Arabic sentence
+  - `dialect_tag`: e.g., `"SD_AR"` for Sudanese Arabic
+  - `region`: e.g., `"Darfur"`, `"Khartoum"`, etc.
+  - `category`: e.g., `"social_media"`, `"folk_story"` (optional)
+
+```json
+{
+  "text": "شنو عملت؟",
+  "dialect_tag": "SD_AR",
+  "region": "Khartoum",
+  "category": "daily_conversation"
+}
+```
 ---
 
 **Note:** If unsure, tag the entry with [REVIEW] for a second annotator to check.
