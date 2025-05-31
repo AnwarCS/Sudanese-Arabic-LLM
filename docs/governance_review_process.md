@@ -27,3 +27,21 @@ Use labels like `enhancement`, `bug`, or `needs review` to clarify intent.
 ## 4. Updates to This Document
 
 This document is version-controlled. Major changes require a PR and review from at least two maintainers.
+## 5. Communication Guidelines
+
+- **Preferred Channels**: Use GitHub Issues for bugs/features, GitHub Discussions for broader topics, and Slack/Discord for real-time questions.
+- **Response Times**: Reviewers aim to respond to PRs and issues within 2 business days.
+- **Code of Conduct**: All contributors must follow our [Code of Conduct](../CODE_OF_CONDUCT.md).
+
+## 6. Release Management
+
+- **Versioning Strategy**: We follow [Semantic Versioning](https://semver.org/).
+- **Release Cadence**: Releases occur on demand based on feature readiness.
+- **Release Process**: Maintainers create a release branch, run tests, update the changelog, and tag a new release on GitHub.
+
+## 7. Issue Management
+
+- **Issue Triage**: New issues are reviewed weekly or daily if possible and labeled by maintainers.
+- **Bug Reports**: Include  environment, steps to reproduce, and logs.
+- **Feature Requests**: Include a clear goal, rationale, and suggested implementation.
+
